@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Appian.238668564.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/accord/3.8.0/build/Accord.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.4.0/build/netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.1/build/netcoreapp2.0/NUnit3.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.1/build/netcoreapp2.0/NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.1/build/netcoreapp2.0/nunit.engine.api.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.1/build/netcoreapp2.0/nunit.engine.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Appian" t="IncludeRecursive">
+        <e p="Appian.csproj" t="IncludeRecursive" />
+        <e p="CryptoRandom.cs" t="Include" />
+        <e p="Deck" t="Include">
+          <e p="Deck.cs" t="Include" />
+          <e p="IDeck.cs" t="Include" />
+          <e p="Implementation" t="Include">
+            <e p="PlayingCards.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Domain" t="Include">
+          <e p="Card.cs" t="Include" />
+          <e p="ISuit.cs" t="Include" />
+          <e p="Suit.cs" t="Include" />
+        </e>
+        <e p="ExtensionMethods" t="Include">
+          <e p="ListExtensions.cs" t="Include" />
+        </e>
+        <e p="Generator" t="Include">
+          <e p="ICardGenerator.cs" t="Include" />
+          <e p="Implementation" t="Include">
+            <e p="InMemoryPlayingCardsGenerator.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Appian.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Appian.Test" t="IncludeRecursive">
+        <e p="Appian.Test.csproj" t="IncludeRecursive" />
+        <e p="DeckTests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Appian.Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Appian.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

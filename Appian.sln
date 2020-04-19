@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appian", "Appian\Appian.csproj", "{72FC0C73-93BB-4E20-9A87-E5871D90A151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appian.Test", "Appian.Test\Appian.Test.csproj", "{6CF92D20-1CB2-4A8C-AC77-DC43C0DE27DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FC0C73-93BB-4E20-9A87-E5871D90A151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FC0C73-93BB-4E20-9A87-E5871D90A151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FC0C73-93BB-4E20-9A87-E5871D90A151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FC0C73-93BB-4E20-9A87-E5871D90A151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF92D20-1CB2-4A8C-AC77-DC43C0DE27DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF92D20-1CB2-4A8C-AC77-DC43C0DE27DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF92D20-1CB2-4A8C-AC77-DC43C0DE27DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF92D20-1CB2-4A8C-AC77-DC43C0DE27DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

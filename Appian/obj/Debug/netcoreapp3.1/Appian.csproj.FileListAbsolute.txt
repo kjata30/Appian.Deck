@@ -1,0 +1,9 @@
+/home/zac/RiderProjects/Appian/Appian/bin/Debug/netcoreapp3.1/Appian.deps.json
+/home/zac/RiderProjects/Appian/Appian/bin/Debug/netcoreapp3.1/Appian.dll
+/home/zac/RiderProjects/Appian/Appian/bin/Debug/netcoreapp3.1/Appian.pdb
+/home/zac/RiderProjects/Appian/Appian/obj/Debug/netcoreapp3.1/Appian.csprojAssemblyReference.cache
+/home/zac/RiderProjects/Appian/Appian/obj/Debug/netcoreapp3.1/Appian.csproj.CoreCompileInputs.cache
+/home/zac/RiderProjects/Appian/Appian/obj/Debug/netcoreapp3.1/Appian.AssemblyInfoInputs.cache
+/home/zac/RiderProjects/Appian/Appian/obj/Debug/netcoreapp3.1/Appian.AssemblyInfo.cs
+/home/zac/RiderProjects/Appian/Appian/obj/Debug/netcoreapp3.1/Appian.dll
+/home/zac/RiderProjects/Appian/Appian/obj/Debug/netcoreapp3.1/Appian.pdb
